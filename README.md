@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Jiyaur Portfolio</title>
+  <title>Jiyaur | Portfolio Website</title>
 
+  <meta name="description" content="Jiyaur official portfolio website. Student portfolio, projects, and personal information.">
+
+  <meta name="keywords" content="Jiyaur, portfolio, Assam, student, B. Borooah college guwahati">
+</head>
+<body>
+  <h1>Hi, I am Jiyaur</h1>
+  <p>Welcome to my personal portfolio website</p>
+</body>
 <style>
 body{
     margin:0;
